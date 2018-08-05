@@ -1,0 +1,12 @@
+<html> 
+    <head>
+
+    </head>
+    <body>
+        <p id="para1"> HI hello World</p>
+        <p id="para2"> Welcome</p>
+        <script type="text/javascript">
+            document.getElementbyId("para1").innerhtml="Manipulated by Java Script"
+        </script>
+    </body>
+</html>
